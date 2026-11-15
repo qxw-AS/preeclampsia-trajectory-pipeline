@@ -4,6 +4,8 @@ title: "Analysis code for: Platelet, AST and ALT trajectories and placental FLT1
 version: 1.0.0
 date-released: 2026-11-16
 license: MIT
+doi: 10.5281/zenodo.24250274
+repository-code: "https://github.com/qxw-AS/preeclampsia-trajectory-pipeline"
 authors:
   - family-names: Qiu
     given-names: Xiaowei

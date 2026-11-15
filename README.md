@@ -7,6 +7,8 @@ reported in the manuscript submitted to the *Journal of Translational Medicine*.
 No participant-level data are included. All datasets are publicly available under their
 original access conditions (see Data sources).
 
+Archived release: v1.0.0, DOI [10.5281/zenodo.24250274](https://doi.org/10.5281/zenodo.24250274).
+
 ## Contents
 
 ```
